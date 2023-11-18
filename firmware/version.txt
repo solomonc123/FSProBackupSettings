@@ -1,0 +1,2 @@
+Model name: FS Pro
+Firmware version: 1.0.536.us (4MB), 07/13/2020
