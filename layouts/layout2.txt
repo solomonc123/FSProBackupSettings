@@ -11,8 +11,9 @@ fn [rctrl]>[ralt]
 {hk3}>{x1}{s5}{-lwin}{a}{+lwin}
 {hk4}>{x1}{s5}{-lwin}{z}{+lwin}
 {hk5}>{x1}{s5}{-lwin}{x}{+lwin}
-{hk6}>{s1}{del}
+{hk6}>{x1}{s5}{-lwin}{v}{+lwin}
 {hk7}>{x1}{s5}{-lwin}{c}{+lwin}
-{hk8}>{x1}{s5}{-lwin}{v}{+lwin}
+{hk8}>{x1}{s5}{-lwin}{w}{+lwin}
 {hk10}>{x1}{s5}{-lwin}{t}{+lwin}
+{lwin}{hk10}>{x1}{s5}{-lwin}{-lshft}{t}{+lshft}{+lwin}
 {prnt}>{x1}{s5}{-lshft}{-rwin}{3}{+lshft}{+rwin}
