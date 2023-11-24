@@ -1,0 +1,4 @@
+1. Shift + F8 to load it
+2. Make layout changes and save
+3. Eject it via Finder
+4. Shift + F8 to load it again
